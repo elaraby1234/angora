@@ -1,0 +1,28 @@
+
+p{
+  font-size: 26px;
+  margin: 25px auto;
+}
+#container{
+  background-color: #09c;
+  /* border: 10px solid #fff; */
+  width: 750px;
+  height: 295px;
+  margin: 0 auto ;
+  text-align: center;
+}
+#container h1{
+  font-size: 80px;
+  font-weight: 800;
+  font-family: Impact;
+
+}
+button{
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+button:hover{
+  background-color: green;
+}
